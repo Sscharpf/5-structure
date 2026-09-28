@@ -11,9 +11,25 @@ body {
     background-color: purple;
     padding: 30px;
     color: white;
+    margin-bottom: 20px;
 
 }
 
 .page-name {
     margin: 0;
+}
+
+.nav-links{
+    color: white;
+}
+
+.main-content {
+    background-color: cadetblue;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+.footer {
+    background-color: plum;
+    padding: 30px;
 }
