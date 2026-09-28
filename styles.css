@@ -1,0 +1,19 @@
+html {
+    background-color: skyblue;
+}
+
+body {
+    margin: 0;
+
+}
+
+.header {
+    background-color: purple;
+    padding: 30px;
+    color: white;
+
+}
+
+.page-name {
+    margin: 0;
+}
