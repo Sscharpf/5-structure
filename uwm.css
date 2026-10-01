@@ -1,0 +1,30 @@
+html {
+    background-color: skyblue;
+}
+
+body {
+    margin: 0;
+}
+
+.header {
+    background-color: purple;
+    padding: 30px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.nav-links{
+    color: white;
+}
+
+.main-content {
+    background-color:lightseagreen;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+.footer {
+    background-color:hotpink;
+    padding: 30px;
+    margin-bottom: 20px;
+}
